@@ -69,7 +69,7 @@ namespace CodePulse.API.Controllers
             {
                 response.Add(new BlogPostDto
                 {
-                    Id=blogPost.Id,
+                    Id = blogPost.Id,
                     Title = blogPost.Title,
                     Author = blogPost.Author,
                     Content = blogPost.Content,
